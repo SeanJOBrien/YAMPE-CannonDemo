@@ -1,0 +1,25 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>Barrel Rotation</Name>
+    <Value>319.271423340</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Barrel Elevation</Name>
+    <Value>-2.594275475</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>NONE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>TEXT</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>GRAPH</Name>
+    <Value>1</Value>
+</Widget>
